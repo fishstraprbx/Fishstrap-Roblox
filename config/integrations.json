@@ -1,0 +1,6 @@
+{
+  "release": "3.3.0",
+  "allow_discord_invites": true,
+  "bloxstrap_rpc_fix": true,
+  "desktop_shortcuts": true
+}
