@@ -2,7 +2,7 @@
 
 **Fishstrap Roblox** extends Roblox bootstrapping with FastFlags, FPS unlocking, multi-instance launches, and Discord integrations (`fishstrap/Fishstrap`).
 
-<img width="919" height="919" alt="images1" src="https://github.com/user-attachments/assets/ce273c3b-12fd-408d-aa7c-14415794acdf" />
+<img width="219" height="219" alt="images1" src="https://github.com/user-attachments/assets/ce273c3b-12fd-408d-aa7c-14415794acdf" />
 <img width="583" height="343" alt="images2" src="https://github.com/user-attachments/assets/ca6dabe8-66ed-48dd-9763-1a47971a9338" />
 <img width="1489" height="858" alt="images3" src="https://github.com/user-attachments/assets/8a37645a-d904-46a7-8d24-e0717a689600" />
 
